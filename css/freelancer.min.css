@@ -27,7 +27,7 @@
  .navbar-custom a:focus{outline:0}.navbar-custom .navbar-nav{letter-spacing:1px}
  .navbar-custom .navbar-nav li a:hover{color:#e799c9;outline:0}
  .navbar-custom .navbar-nav li a:active,.navbar-custom .navbar-nav li a:focus{color:#fff}
- .navbar-custom .navbar-nav li.active a,.navbar-custom .navbar-nav li.active a:active,.navbar-custom .navbar-nav li.active a:focus,.navbar-custom .navbar-nav li.active a:hover{color:#fff;background:#ec2b2b}
+ .navbar-custom .navbar-nav li.active a,.navbar-custom .navbar-nav li.active a:active,.navbar-custom .navbar-nav li.active a:focus,.navbar-custom .navbar-nav li.active a:hover{color:#fff;background:#e799c9}
  .navbar-custom .navbar-toggle{color:#fff;text-transform:uppercase;font-size:10px;border-color:#fff}
  .navbar-custom .navbar-toggle:focus,.navbar-custom .navbar-toggle:hover{background-color:#e799c9;color:#fff;border-color:#e799c9}
  @media (min-width:768px){.navbar-custom{padding:25px 0;-webkit-transition:padding .3s;-moz-transition:padding .3s;transition:padding .3s}
@@ -81,7 +81,7 @@
  .btn-primary .badge{color:#2C3E50;background-color:#fff}
  .btn-success{color:#fff;background-color:#e799c9;border-color:#e799c9;font-weight:700}
  .btn-success.active,.btn-success:active,.btn-success:focus,.btn-success:hover,.open .dropdown-toggle.btn-success{color:#fff;background-color:#c32222;border-color:#c32222}
- .btn-success.disabled,.btn-success.disabled.active,.btn-success.disabled:active,.btn-success.disabled:focus,.btn-success.disabled:hover,.btn-success[disabled],.btn-success[disabled].active,.btn-success[disabled]:active,.btn-success[disabled]:focus,.btn-success[disabled]:hover,fieldset[disabled] .btn-success,fieldset[disabled] .btn-success.active,fieldset[disabled] .btn-success:active,fieldset[disabled] .btn-success:focus,fieldset[disabled] .btn-success:hover{background-color:#ec2b2b;border-color:#ec2b2b}
+ .btn-success.disabled,.btn-success.disabled.active,.btn-success.disabled:active,.btn-success.disabled:focus,.btn-success.disabled:hover,.btn-success[disabled],.btn-success[disabled].active,.btn-success[disabled]:active,.btn-success[disabled]:focus,.btn-success[disabled]:hover,fieldset[disabled] .btn-success,fieldset[disabled] .btn-success.active,fieldset[disabled] .btn-success:active,fieldset[disabled] .btn-success:focus,fieldset[disabled] .btn-success:hover{background-color:#e799c9;border-color:#e799c9}
  .btn-success .badge{color:#e799c9;background-color:#fff}
  .btn-social{display:inline-block;border:2px solid #fff;border-radius:100%;text-align:center;font-size:20px;line-height:45px}
  .btn.active,.btn:active,.btn:focus{outline:0}
